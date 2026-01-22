@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Carlos</h1>
 
 <h3 align="center">
-  Desenvolvedor Front-end Júnior • JavaScript • React
+  Desenvolvedor Front-end Júnior • JavaScript • React • UI/UX
 </h3>
 
 <p align="center">
@@ -11,44 +11,47 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhwYzM1eXB5Y3Z0dXN3N3VkbzZkMTR1MGl4M2xodnE0b3l5eHk2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 ---
 
-## Sobre mim
-Sou **Desenvolvedor Front-end Júnior**, focado em criar interfaces web modernas, responsivas e bem estruturadas.
+## 👨‍💻 Sobre mim
+Sou **Desenvolvedor Front-end Júnior**, com foco em construir interfaces web **funcionais, responsivas e bem estruturadas**.
 
-Trabalho com **JavaScript puro e React**, aplicando conceitos de **UX/UI** e utilizando **Inteligência Artificial** como apoio no desenvolvimento e aprendizado contínuo.
+Tenho experiência com **HTML, CSS, JavaScript e React**, aplicando conceitos de **UX/UI** e boas práticas de desenvolvimento.  
+Utilizo **Inteligência Artificial** como apoio para produtividade e aprendizado contínuo.
+
+🎯 Busco oportunidade como **estagiário ou desenvolvedor front-end júnior**, onde eu possa evoluir tecnicamente e contribuir com o time.
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github" />
 </p>
 
 ---
 
-## Projetos em destaque
-- **Space Adventure (Beta – JS Puro)**  
-  Fundamentos de lógica e interatividade com JavaScript.
+## 📂 Projetos
+- **Space Adventure (Beta – JavaScript Puro)**  
+  Jogo simples focado em lógica de programação e interatividade.
 
 - **Space Adventure 2.0 (React)**  
-  Versão evoluída com React e componentes.
+  Versão evoluída utilizando React, componentes e organização de estado.
 
 - **Projeto Livros**  
-  Aplicação para listagem e busca de livros.
+  Aplicação web para listagem e busca de livros por título e autor.
 
 - **Lista de Afazeres**  
-  CRUD simples com armazenamento local.
+  Aplicação CRUD com armazenamento local (LocalStorage).
 
-👉 Veja todos no portfólio:  
+👉 Veja os projetos rodando:  
 🔗 https://devcarlos-prog.github.io/Meu-Portfolio/
 
 ---
 
-## Contato
+## 📬 Contato
 <p>
   <a href="https://www.linkedin.com/in/carlos-wagner-4162712b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
@@ -59,5 +62,5 @@ Trabalho com **JavaScript puro e React**, aplicando conceitos de **UX/UI** e uti
 </p>
 
 <p align="center">
-  🚀 Em constante evolução
+  🚀 Em constante evolução como desenvolvedor front-end
 </p>
